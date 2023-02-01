@@ -20,6 +20,7 @@ Library for making my everyday projects/work much easier! No more rewriting and 
         "emitDeclarationOnly": true
         `
     4. Run the following command `npm install rollup @rollup/plugin-node-resolve @rollup/plugin-commonjs @rollup/plugin-typescript rollup-plugin-dts --save-dev`
+    5. `npm run rollup`
 
 ### WIP...
 
