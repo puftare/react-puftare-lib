@@ -1,0 +1,24 @@
+{
+  "name": "react-puftare-lib",
+  "version": "1.0.0",
+  "description": "Library for making my everyday projects/work much easier! No more copy/paste, just install!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puftare/react-puftare-lib.git"
+  },
+  "author": "Martin Potkonjak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/puftare/react-puftare-lib/issues"
+  },
+  "homepage": "https://github.com/puftare/react-puftare-lib#readme",
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "react": "^18.2.0",
+    "typescript": "^4.9.5"
+  }
+}
