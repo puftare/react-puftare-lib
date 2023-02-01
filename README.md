@@ -2,7 +2,7 @@
 
 Library for making my everyday projects/work much easier! No more rewriting and copy/pasting, just install and reuse wherever you like!
 
-## Instructions..
+## Progress..
 
     1. Initialize project by typing `npm init`
     2. Leave everything on default, for now

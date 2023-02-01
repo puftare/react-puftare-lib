@@ -1,5 +1,5 @@
 {
-  "name": "react-puftare-lib",
+  "name": "@puftare/react-puftare-lib",
   "version": "0.0.1",
   "description": "Library for making my everyday projects/work much easier! No more rewriting and copy/pasting, just install and reuse wherever you like!",
   "scripts": {
@@ -32,5 +32,8 @@
     "dist"
   ],
   "types": "dist/index.d.ts",
-  "type": "module"
+  "type": "module",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/puftare"
+  }
 }
