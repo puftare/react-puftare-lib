@@ -1,10 +1,9 @@
 {
   "name": "react-puftare-lib",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Library for making my everyday projects/work much easier! No more rewriting and copy/pasting, just install and reuse wherever you like!",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "rollup": "rollup -c"
   },
   "repository": {
     "type": "git",
@@ -26,7 +25,8 @@
     "rollup-plugin-dts": "^5.1.1",
     "typescript": "^4.9.5"
   },
-  "dependencies": {
-
-  }
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "files": ["dist"],
+  "types": "dist/index.d.ts"
 }
