@@ -27,6 +27,6 @@ Library for making my everyday projects/work much easier! No more rewriting and 
 
 #### Author
 
-[puftare][def]
+[puftare][def] 🤓
 
 [def]: https://github.com/puftare
