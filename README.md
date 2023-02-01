@@ -5,3 +5,7 @@ Library for making my everyday projects/work much easier! No more copy/paste, ju
 ## Instructions..
 
 ### WIP...
+
+#### Author
+
+https://github.com/puftare
