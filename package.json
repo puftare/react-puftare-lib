@@ -1,7 +1,7 @@
 {
   "name": "react-puftare-lib",
   "version": "1.0.0",
-  "description": "Library for making my everyday projects/work much easier! No more copy/paste, just install!",
+  "description": "Library for making my everyday projects/work much easier! No more rewriting and copy/pasting, just install and reuse wherever you like!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
