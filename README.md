@@ -1,10 +1,11 @@
 # react-puftare-lib
 
-Library for making my everyday projects/work much easier! No more copy/paste, just install!
+Library for making my everyday projects/work much easier! No more rewriting and copy/pasting, just install and reuse wherever you like!
 
 ## Instructions..
 
 ### WIP...
+1. Button
 
 #### Author
 
